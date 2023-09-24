@@ -1,7 +1,5 @@
 /* write your override styles here */
-html body {
-    display: none;
-}
+
 #wall .tag-1 {
     display:none;
 }
